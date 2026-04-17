@@ -75,6 +75,15 @@
 - **Other:** Matplotlib (fallback), PIL  
 
 ---
+## 📸 Screenshots
+
+![Screenshot 1](assets/screen1.PNG)
+![Screenshot 2](assets/screen2.PNG)
+![Screenshot 3](assets/screen3.PNG)
+![Screenshot 4](assets/screen4.PNG)
+![Screenshot 5](assets/screen5.PNG)
+
+---
 
 ## 📁 Project Structure
 ├── InsightFlowAI.py # Main Streamlit app
