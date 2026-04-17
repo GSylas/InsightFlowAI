@@ -10,11 +10,11 @@
 
 ## 📸 Screenshots
 
-![Screenshot 1](assets/screen1.png)
-![Screenshot 2](assets/screen2.png)
-![Screenshot 3](assets/screen3.png)
-![Screenshot 4](assets/screen4.png)
-![Screenshot 5](assets/screen5.png)
+![Screenshot 1](assets/Screenshot 1.png)
+![Screenshot 2](assets/Screenshot 2.png)
+![Screenshot 3](assets/Screenshot 3.png)
+![Screenshot 4](assets/Screenshot 4.png)
+![Screenshot 5](assets/Screenshot 5.png)
 
 ---
 
