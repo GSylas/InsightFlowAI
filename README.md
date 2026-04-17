@@ -87,8 +87,11 @@
 
 ## 📁 Project Structure
 ├── InsightFlowAI.py # Main Streamlit app
+
 ├── Global_Superstore2.csv # Dataset
+
 ├── column_synonyms.xlsx # Optional synonym mapping
+
 ├── insightflowAI.png # Logo
 
 
