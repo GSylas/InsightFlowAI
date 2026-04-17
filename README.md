@@ -69,3 +69,25 @@ It allows users to explore datasets (like Global Superstore) without writing cod
 ---
 
 ## 📁 Project Structure
+├── InsightFlowAI.py # Main Streamlit app
+├── Global_Superstore2.csv # Dataset
+├── column_synonyms.xlsx # Optional synonym mapping
+├── insightflowAI.png # Logo
+
+
+## ⚙️ Installation
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/insightflow-ai.git
+cd insightflow-ai
+
+pip install -r requirements.txt
+
+ollama run llama3.2
+ollama run deepseek-coder:6.7b
+```
+
+## ▶️ Run the App
+streamlit run InsightFlowAI.py
