@@ -1,8 +1,13 @@
 # 🚀 InsightFlow AI
 
-**InsightFlow AI** is an intelligent data analysis web app built with Streamlit that turns natural language questions into actionable insights using Python, LLMs, and automated visualizations.
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
+![LLM](https://img.shields.io/badge/LLM-Ollama-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-It allows users to explore datasets (like Global Superstore) without writing code—just ask questions and get results instantly.
+**InsightFlow AI** is an intelligent data analysis web app that turns natural language questions into actionable insights using Python, LLMs, and automated visualizations.
+
+👉 No SQL. No coding. Just ask questions.
 
 ---
 
