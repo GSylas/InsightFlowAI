@@ -8,13 +8,9 @@
 
 👉 No SQL. No coding. Just ask questions.
 
-## 📸 Screenshots
+## 🎥 Demo
 
-![Screenshot 1](assets/screen1.PNG)
-![Screenshot 2](assets/screen2.PNG)
-![Screenshot 3](assets/screen3.PNG)
-![Screenshot 4](assets/screen4.PNG)
-![Screenshot 5](assets/screen5.PNG)
+![Demo](assets/gif_app.gif)
 
 ---
 
