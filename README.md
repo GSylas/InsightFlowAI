@@ -1,0 +1,71 @@
+# 🚀 InsightFlow AI
+
+**InsightFlow AI** is an intelligent data analysis web app built with Streamlit that turns natural language questions into actionable insights using Python, LLMs, and automated visualizations.
+
+It allows users to explore datasets (like Global Superstore) without writing code—just ask questions and get results instantly.
+
+---
+
+## ✨ Features
+
+- 💬 **Natural Language Queries**  
+  Ask questions like *“What are total sales by category?”* and get instant results.
+
+- 📊 **Automatic Data Analysis**  
+  Generates and executes Python (pandas/numpy) code dynamically.
+
+- 📈 **Interactive Visualizations**  
+  Toggle between:
+  - Tables
+  - Bar charts
+  - Line charts
+
+- 🌍 **Multi-language Support**
+  - English
+  - Greek
+  - Spanish
+  - Italian
+
+- 🧠 **AI-Powered Code Generation**
+  - Uses local LLMs (via Ollama)
+  - Automatically fixes errors in generated code
+
+- 🔍 **Code Transparency**
+  - See generated code
+  - View explanations of what the code did
+
+- 🧩 **Synonym Mapping**
+  - Understands different ways users refer to columns (via Excel config)
+
+---
+
+## 🏗️ How It Works
+
+1. User enters a question in natural language  
+2. The app:
+   - Loads the dataset (`Global Superstore`)
+   - Enhances the query using synonyms  
+3. LLM generates Python code to answer the query  
+4. Code is:
+   - Cleaned  
+   - Validated  
+   - Executed safely  
+5. Results are displayed as:
+   - Data tables  
+   - Charts (auto-detected)  
+6. Explanation is generated for transparency  
+
+---
+
+## 🧠 Tech Stack
+
+- **Frontend/UI:** Streamlit  
+- **Data Processing:** Pandas, NumPy  
+- **Visualization:** Streamlit charts, Plotly, Altair  
+- **LLM Integration:** Ollama (Llama 3.2, DeepSeek Coder)  
+- **Translation:** deep-translator  
+- **Other:** Matplotlib (fallback), PIL  
+
+---
+
+## 📁 Project Structure
